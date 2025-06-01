@@ -1,0 +1,3 @@
+[submodule "modules/anira"]
+	path = modules/anira
+	url = https://github.com/anira-project/anira.git
